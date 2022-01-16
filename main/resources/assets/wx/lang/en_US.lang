@@ -1,0 +1,12 @@
+item.test_item.name=Test Item
+item.test_axe.name=Test Axe
+item.test_pickaxe.name=Test Pickaxe
+item.test_hoe.name=Test Hoe
+item.test_shovel.name=Test Shovel
+item.test_sword.name=Test Sword
+item.test_helmet.name=Test Helmet
+item.test_chestplate.name=Test Chestplate
+item.test_legs.name=Test Leggins
+item.test_boots.name=Test Boots
+
+tile.test_block.name=Test Block

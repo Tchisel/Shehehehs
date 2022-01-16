@@ -1,0 +1,16 @@
+[
+{
+  "modid": "wux",
+  "name": "Wuxia",
+  "description": "A Mod that implements a Wuxia System",
+  "version": "${1.0.0}",
+  "mcversion": "${1.12.2}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Tchisel"],
+  "credits": "The Forge and FML guys",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

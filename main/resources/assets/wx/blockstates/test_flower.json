@@ -1,0 +1,16 @@
+{
+    "variants": {
+        "normal": {
+            "model": "wx:test_flower"
+        },
+        "inventory": {
+            "model": "wx:test_flower"
+        },
+        "stage=0":{
+            "model": "wx:test_flower"
+        },
+        "stage=1":{
+            "model": "wx:test_flower"
+        }
+    }
+}  
